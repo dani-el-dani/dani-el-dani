@@ -1,6 +1,6 @@
 ### Hello There 
 ## I am Daniel Getachew
-Software developer with a Master's in Computer Engineering and a strong background in programming and problem-solving. I'm Passionate about building creative solutions, I have developed multiple games that showcase my expertise in software development. Currently transitioning from academia to the tech industry. I will use my passion and problem solving skill to develop creative solution to every project I take on.
+Software developer with a Master's in Computer Engineering and a strong background in programming and problem-solving. I am Passionate about building creative solutions, I have developed multiple games that showcase my expertise in software development. Currently transitioning from academia to the tech industry. I use my strong passion and problem solving skill to develop creative solution to every project I take on.
 
 **Skills:** Java, Java script, HTML, CSS, Node.js, React native, Python, Tiktok Effect house (AR Effects).
 
@@ -20,5 +20,5 @@ A classic sliding puzzle game using React Native with Expo where players can sol
 [**Download**](https://expo.dev/artifacts/eas/oUUXe4d1ASmdkfmResmx4T.apk)
 
 # TikTok AR Effects
-I developed multiple engaging TikTok AR effects, played over 6 million times.\
+Developed multiple engaging TikTok AR effects with over 6 million plays and collaborated with other creators to create viral effects.\
 [**Try Effect**](https://vm.tiktok.com/ZMkvbwwgg/)
