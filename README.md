@@ -12,7 +12,7 @@ An enhanced version of the classic 2048 game, allowing players to choose grid si
 The source code is also avilable [**here**](https://github.com/dani-el-dani/game-2048) in github.
 
 # Ethiopia Travel & Heritage Website
-A responsive tourism portal that showcases Ethiopia’s cultural festivals, and travel resources. The site features dynamic content management for destinations and events, elegant design, and interactive features tailored to global travelers. 
+A responsive tourism portal that showcases Ethiopia’s cultural festivals, and travel resources. The site features dynamic content management for destinations and events, elegant design, and interactive features tailored to global travelers.\
 HTML5, CSS3, JavaScript, React, and Netlify deployment.\
 [**Live Demo**](https://ethiotourism.netlify.app/)
 
