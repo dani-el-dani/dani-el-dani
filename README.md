@@ -13,12 +13,12 @@ The source code is also avilable [**here**](https://github.com/dani-el-dani/game
 
 # Ethiopia Travel & Heritage Website
 A responsive tourism portal that showcases Ethiopia’s cultural festivals, and travel resources. The site features dynamic content management for destinations and events, elegant design, and interactive features tailored to global travelers.\
-HTML5, CSS3, JavaScript, React, and Netlify deployment.\
+**Built with:** HTML5, CSS3, JavaScript, React, and Netlify deployment.\
 [**Live Demo**](https://ethiotourism.netlify.app/)
 
 # Wesfie Salon Booking Website
-A modern, user-friendly salon booking platform designed a women’s beauty. The website allows clients to browse services, view stylists, and book appointments through a multi-step form. Built with.\
-HTML5, CSS3, JavaScript, React, React Router, and Zustand for seamless state management, Miragejs to mock out backend APIs and Netlify deployment.\
+A modern, user-friendly salon booking platform designed a women’s beauty. The website allows clients to browse services, view stylists, and book appointments through a multi-step form.\ 
+**Built with:** HTML5, CSS3, JavaScript, React, React Router, and Zustand for seamless state management, Miragejs to mock out backend APIs and Netlify deployment.\
 [**Live Demo**](https://wesfiesalon.netlify.app/)
 
 # Guess My Number Game
