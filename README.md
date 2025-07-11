@@ -17,7 +17,7 @@ A responsive tourism portal that showcases Ethiopia’s cultural festivals, and 
 [**Live Demo**](https://ethiotourism.netlify.app/)
 
 # Wesfie Salon Booking Website
-A modern, user-friendly salon booking platform designed a women’s beauty. The website allows clients to browse services, view stylists, and book appointments through a multi-step form.\ 
+A modern, user-friendly salon booking platform designed a women’s beauty. The website allows clients to browse services, view stylists, and book appointments through a multi-step form.\
 **Built with:** HTML5, CSS3, JavaScript, React, React Router, and Zustand for seamless state management, Miragejs to mock out backend APIs and Netlify deployment.\
 [**Live Demo**](https://wesfiesalon.netlify.app/)
 
